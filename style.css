@@ -1,0 +1,16 @@
+body {
+  font-family: sans-serif;
+  background: #eef2f3;
+  color: #333;
+  padding: 20px;
+}
+
+header {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+#results {
+  margin-top: 20px;
+}
